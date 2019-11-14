@@ -1,4 +1,4 @@
-YELLOWDC COMING SOON
+#YELLOWDC COMING SOON
 <!-- # Jekyll Tachyons
 
 Jekyll Tachyons is a base Jekyll theme that:
