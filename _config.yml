@@ -16,7 +16,7 @@
 title: "YellowDC"
 description: "YELLOW COMING SOON"
 lang: "en" # or fr, de, es etc.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "yellow&#8482;" # the subpath of your site, e.g. /blog
 url: "https://yellowdc.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Include styles inline or link to css file?
