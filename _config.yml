@@ -72,4 +72,4 @@ exclude:
 - vendor/gems/
 - vendor/ruby/
 - _site/feed.xml
-
+- _site
