@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "YellowDC"
-description: "A site description"
+description: "YELLOW COMING SOON"
 lang: "en" # or fr, de, es etc.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yellowdc.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Include styles inline or link to css file?
 # This has to be set to css: inline for the theme to inline styles
@@ -71,3 +71,5 @@ exclude:
 - vendor/cache/
 - vendor/gems/
 - vendor/ruby/
+- _site/feed.xml
+
