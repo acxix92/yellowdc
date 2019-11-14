@@ -1,3 +1,0 @@
-# YELLOWDC
-
-### coming soon
