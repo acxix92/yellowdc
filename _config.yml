@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "YellowDC"
+title: "Yelloww&#8482;"
+email: alex@cortez.cc
 description: "YELLOW COMING SOON"
 lang: "en" # or fr, de, es etc.
-baseurl: "/yellow&#8482;" # the subpath of your site, e.g. /blog
+baseurl: "/about" # the subpath of your site, e.g. /blog
 url: "https://yellowdc.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Include styles inline or link to css file?
