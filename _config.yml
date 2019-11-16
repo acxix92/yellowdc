@@ -17,7 +17,7 @@ title: "Yelloww&#8482;"
 email: alex@cortez.cc
 description: "YELLOW COMING SOON"
 lang: "en" # or fr, de, es etc.
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: "/yellow" # the subpath of your site, e.g. /blog
 url: "https://yellowdc.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Include styles inline or link to css file?
